@@ -3,7 +3,7 @@ Repository containing various tasks for JP Morgan Chase & Co. Software Engineeri
 
 Started in Aug. 2020 but finally managed to finish it in Nov. 2021 due to scheduling issues.
 
-### Final result of tasks: Data feed dashboard for decision making.
+## Final result of tasks: Data feed dashboard for decision making.
 
 ![](final_result.jpg)
 
