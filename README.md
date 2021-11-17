@@ -1,7 +1,7 @@
 # JPMorgan-Virtual-Internship-2021
 Repository containing various tasks for JP Morgan Chase & Co. Software Engineering Virtual Internship 2021
 
-Started in Aug. 2020 but finally managed to finish it in Nov. 2021 due to scheduling issues.
+Started in Aug. 2020 but got around finishing it in Nov. 2021 due to scheduling issues.
 
 ## Final result of tasks: Data feed dashboard for decision making.
 
